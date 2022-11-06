@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "database": "datamining",
+    "user": "",
+    "port": "5432",
+    "password": ""
+}
