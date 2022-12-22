@@ -1,7 +1,3 @@
 # Data mining lecture
 
-## Zitieren
-
-- Anfuehrungszeichen
-- Auslassungen mittendrin mit "[...]" kennzeichnen.
-- Quelle
+Collection of my notebooks
